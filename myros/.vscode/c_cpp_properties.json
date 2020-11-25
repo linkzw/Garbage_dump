@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/linkzw/slam/catkin_wa/devel/include/**",
+                "/home/linkzw/myros/src/tiaozhanbei/include",
+                "/home/linkzw/myros/src/tiaozhanbei/src",
+                "/home/linkzw/myros/src/navigation-noetic-devel/move_base/include",
+                "/home/linkzw/myros/src/teb_local_planner/include",
+                "/opt/ros/kinetic/include/**",
+                "/usr/include/**",
+                "${workapaceRoot}/**",
+                "$./src/tiaozhanbei/include",
+                "$./src/navigation-noetic-devel/move_base/include"
+                
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
